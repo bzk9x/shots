@@ -26,3 +26,19 @@ The core functionality is implemented in `screen_home.html`, which embeds the sh
 ```html
 <iframe src="https://shots.so/" frameborder="0"></iframe>
 ```
+
+## Development
+To run the application locally:
+```bash
+npm install
+npm start
+```
+
+To build the application:
+
+```bash
+npm run package-win
+```
+
+## Credits
+All credits for the functionality and content go to the original shots.so website and its creators.
